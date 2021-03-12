@@ -6,7 +6,7 @@ body{
 
 .header{
 
-    display: block;
+    display: flex;
     align-items: center;
     background-color: skyblue;
     border: 8px solid black;
